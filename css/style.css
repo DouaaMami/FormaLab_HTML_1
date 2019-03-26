@@ -18,3 +18,12 @@ p.vert
 .bord{
     border: 1px solid green ;
 }
+a {
+    color: gold; text-decoration:none;
+}
+a:hover {
+    color:darkolivegreen   ; text-decoration: underline;
+}
+a:visited{
+    color: indigo ;
+}
