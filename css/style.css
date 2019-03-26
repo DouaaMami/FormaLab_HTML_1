@@ -10,13 +10,16 @@
 }
 p.vert
 {
-    color: lawngreen ;
+    color: lawngreen ; text-align: center;
 }
 .vt {
-    color: green ;
+    color: green ; 
 }
 .bord{
-    border: 1px solid green ;
+    border: 2px solid green ;
+}
+.align{
+    text-align: center ;
 }
 a {
     color: gold; text-decoration:none;
@@ -26,4 +29,13 @@ a:hover {
 }
 a:visited{
     color: indigo ;
+}
+.hi{
+    font-family: Georgia, 'Times New Roman', Times, serif; font-size: 2cm; font-style: italic; font-weight: bolder;
+}
+.transp{
+    background-color: rgba(20, 36, 10, 25)
+}
+.trans{
+    opacity: 0.9;
 }
