@@ -17,6 +17,7 @@ p.vert
 }
 .bord{
     border: 2px solid green ;
+    border-radius: 15px;
 }
 .align{
     text-align: center ;
@@ -37,5 +38,19 @@ a:visited{
     background-color: rgba(20, 36, 10, 25)
 }
 .trans{
-    opacity: 0.9;
+    opacity: 0.7;
+    width: 700px;
+    height: 500px;
+    margin-left: 400px; 
+    
+}
+
+#ok{
+    background-image: url("../images/desktop_work\ hard.png");
+}
+.but{
+    padding: 15px ;
+}
+ul{ 
+    list-style-image: url("../images/https___images.genius.com_74f02873b5f22b1bc6509c5063227243.640x640x1.jpg")
 }
