@@ -1,5 +1,5 @@
 *{
-    color: red ;
+    color:red ;
 }
 #parared { 
     color:blue; } 
@@ -11,4 +11,10 @@
 p.vert
 {
     color: lawngreen ;
+}
+.vt {
+    color: green ;
+}
+.bord{
+    border: 1px solid green ;
 }
